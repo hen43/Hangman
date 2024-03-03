@@ -1,0 +1,20 @@
+words = [
+    "Elephant", "Computer", "Jungle", "Happiness", "Rainbow", 
+    "Butterfly", "Galaxy", "Pumpkin", "Chocolate", "Adventure", 
+    "Mystery", "Pizza", "Guitar", "Library", "Universe", "Dragon", 
+    "Watermelon", "Friendship", "Diamond", "Astronaut", "Sunshine", 
+    "Moonlight", "Balloon", "Captain", "Pirate", "Treasure", "Princess", 
+    "Castle", "Wizard", "Mermaid", "Fireworks", "Carnival", "Snowflake", 
+    "Lighthouse", "Starfish", "Jellyfish", "Dragonfly", "Ladybug", 
+    "Pencil", "Rainbow", "Ice cream", "Puppy", "Kitten", "Flower", 
+    "Butterfly", "Tornado", "Thunder", "Lightning", "Snowball", 
+    "Waterfall", "Watermelon", "Strawberry", "Lemonade", "Cupcake", 
+    "Birthday", "Holiday", "Vacation", "Swimming", "Surfing", "Camping", 
+    "Picnic", "Hiking", "Fishing", "Painting", "Dancing", "Singing", 
+    "Theater", "Circus", "Carnival", "Rollercoaster", "Pirate", "Ninja", 
+    "Superhero", "Vampire", "Werewolf", "Zombie", "Ghost", "Witch", 
+    "Wizard", "Magic", "Potion", "Spell", "Enchanted", "Castle", 
+    "Forest", "Desert", "Mountain", "Ocean", "River", "Lake", 
+    "Island", "Volcano", "Canyon", "Cave", "Ruins", "Temple", 
+    "Pyramid", "Space", "Satellite", "Astronaut"
+]
